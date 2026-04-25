@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza El Qadiri
 
-🚀 Data Science & AI Student based in Spain  
+🚀 Data Engineering & AI Student based in Spain  
 💻 Passionate about Machine Learning, Data Engineering, and Scalable Systems  
 
 ---
