@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Master's student in Data Science & AI  
+- 🎓 Master's student in Data Engineering & AI
 - 🔍 Interested in Data Engineering, Machine Learning, and Distributed Systems  
 - 🛠️ Building end-to-end data pipelines and intelligent applications  
 - 📈 Focused on real-world problem solving using data  
