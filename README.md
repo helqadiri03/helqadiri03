@@ -22,13 +22,27 @@
 
 ---
 
-### 🤖 Data Science & Machine Learning
+### 🤖 AI, Machine Learning & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Llama 3](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A6CFF?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFB000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface)
+![SQLGlot](https://img.shields.io/badge/SQLGlot-0B7285?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-4CAF50?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge)
+![Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-1565C0?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-455A64?style=for-the-badge)
 ---
 
 ### 🏗️ Data Engineering
