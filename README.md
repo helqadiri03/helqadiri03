@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hamza El Qadiri
 
-🚀 Data Engineering & AI Student based in Spain  
-💻 Passionate about Machine Learning, Data Engineering, and Scalable Systems  
+🚀 Data Engineer & AI  based in Spain  
+💻 Passionate about AI, Data Engineering, and Scalable Systems  
 
 ---
 
