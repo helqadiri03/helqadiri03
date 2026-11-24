@@ -5,7 +5,7 @@
 
 🚀 Building scalable data pipelines, cloud-based data platforms, and AI-powered applications.
 
-📍 Based in Almería, Spain 🇪🇸
+📍 Based in Spain 🇪🇸
 
 ---
 
@@ -17,8 +17,8 @@ My focus is on designing and developing end-to-end data solutions, from data ing
 
 - 🏗️ Building scalable data pipelines and modern data architectures.
 - ☁️ Working with cloud technologies, particularly Microsoft Azure.
-- 🤖 Developing AI-powered applications using LLMs, RAG, and CRAG architectures.
-- 📊 Exploring distributed data processing with Apache Spark and PySpark.
+- 🤖 Developing AI-powered applications using LLMs and RAG architectures.
+- 📊 Working with distributed data processing using Apache Spark and PySpark.
 - 🔍 Applying machine learning and deep learning to real-world problems.
 - 🎯 Interested in Data Engineering, AI Engineering, and Big Data opportunities.
 
@@ -63,7 +63,6 @@ My focus is on designing and developing end-to-end data solutions, from data ing
 ![Pinecone](https://img.shields.io/badge/Pinecone-0A6CFF?style=for-the-badge)
 
 - Retrieval-Augmented Generation (RAG)
-- Corrective RAG (CRAG)
 - Vector Search & Embeddings
 - Semantic Search
 - Text-to-SQL
@@ -110,18 +109,6 @@ My focus is on designing and developing end-to-end data solutions, from data ing
 
 ## 🚀 Featured Projects
 
-### 🧠 IoT Incident Intelligence Platform — RAG & CRAG
-
-Developing an AI-powered incident intelligence system for IoT sensor environments.
-
-- Designing RAG and CRAG architectures.
-- Integrating Azure AI Search for vector and semantic retrieval.
-- Using Azure OpenAI embeddings for knowledge retrieval.
-- Building an intelligent question-answering system for sensor data, incidents, and platform logs.
-- Developing a hybrid architecture designed for integration with existing data pipelines.
-
-**Tech Stack:** Python, Azure AI Search, Azure OpenAI, RAG, CRAG, LangChain, PostgreSQL.
-
 ### 🌱 IoT Anomaly Detection — Edge AI
 
 Developed a machine learning and deep learning pipeline for detecting and classifying anomalies in greenhouse sensor data.
@@ -144,18 +131,6 @@ Built an end-to-end data analytics platform using the Brazilian Olist E-Commerce
 - Backend APIs and intelligent Text-to-SQL capabilities.
 
 **Tech Stack:** Python, PostgreSQL, Snowflake, dbt, Apache Airflow, FastAPI, React, LangChain.
-
-### 📈 StockPulse SMC Pro — Algorithmic Trading System
-
-Developing a multi-service financial market analysis and trading system based on Smart Money Concepts.
-
-- Automated market structure detection.
-- Multi-timeframe candle aggregation.
-- Trading signal generation and scoring.
-- Historical trade simulation and performance evaluation.
-- Time-series storage and scheduled data ingestion.
-
-**Tech Stack:** Python, PostgreSQL, TimescaleDB, Celery, FastAPI.
 
 ---
 
