@@ -146,16 +146,6 @@ Faculty of Sciences and Techniques of Tangier (FSTT), Morocco
 ---
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaElkadiri&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaElkadiri&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-
 ## 📫 Let's Connect!
 
 I'm always interested in connecting with professionals, collaborating on interesting projects, and exploring opportunities in Data Engineering and AI Engineering.
